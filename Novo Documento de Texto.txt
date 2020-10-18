@@ -1,0 +1,143 @@
+
+  <div id="menu">
+    <div id="logo-menu">
+      <a href="/index.html"><img src="./img/logo.png" alt=""></a>
+    </div>
+
+    <nav>
+      <ul class="list-unstyled">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Sobre</a></li>
+        <li><a href="#">Comprar</a></li>
+        <li><a class="contato" href="#">Contato</a></li>
+      </ul>
+    </nav>
+  </div>
+
+  <!-- ------------------------------- BANNER -------------------------------- -->
+
+  <aside>
+    <div class="banner-text">
+      <h1 class="display-2">
+        Wellcome to Journey
+      </h1>
+      <p class="lead text-justify">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit maiores praesentium ex nulla quae voluptatum
+        magnam officiis impedit iste nam mollitia porro neque, ut, debitis, veritatis dolores molestiae amet quam
+        voluptate excepturi facilis magni distinctio! Nemo, odio. Eum ipsa cupiditate delectus, quibusdam, reprehenderit
+        error, non eius temporibus iste rerum quisquam?
+      </p>
+      <a href="#" target="_blank"><input type="button" value="View More"></a>
+    </div>
+
+    <div class="nokia-img">
+      <img src="./img/banner.png" alt="">
+    </div>
+  </aside>
+
+  <!-- ----------------------- ESPECIFICAÇÕES TECNICAS ----------------------- -->
+
+  <section class="espc">
+    <h4 class="font-weight-normal text-md-center h4"><i class="fas fa-microchip sla"></i> Especificações Técnicas</h4>
+
+    <div class="espec-info">
+      <div class="img-espc"><img src="./img/processador.png" alt="processador"></div>
+      <div class="descrição-espec">
+        <h3>Processador</h3>
+        <span>QUAD-CORE 2ghz</span>
+
+      </div>
+    </div>
+    <div class="espec-info">
+      <div class="img-espc"><img src="./img/android.png" alt="Android"></div>
+      <div class="descrição-espec">
+        <h3>Android</h3>
+        <span>Android 9</span>
+      </div>
+    </div>
+    <div class="espec-info">
+      <div class="img-espc"><img src="./img/celular.png" alt="display"></div>
+      <div class="descrição-espec">
+        <h3>Display</h3>
+        <span>6.2</span>
+      </div>
+    </div>
+    <div class="espec-info">
+      <div class="img-espc"><img src="./img/cartao-de-memoria.png" alt="memoria"></div>
+      <div class="descrição-espec">
+        <h3>Memória</h3>
+        <span>32gb</span>
+      </div>
+    </div>
+    <div class="espec-info">
+      <div class="img-espc"><img src="./img/gps.png" alt="gps"></div>
+      <div class="descrição-espec">
+        <h3>Gps</h3>
+        <span>Sim</span>
+      </div>
+    </div>
+    <div class="espec-info">
+      <div class="img-espc"><img src="./img/camera-dslr.png" alt="gps"></div>
+      <div class="descrição-espec">
+        <h3>Foto</h3>
+        <span>13 Mpx</span>
+      </div>
+    </div>
+
+
+  </section>
+
+  <!-- ----------------------------- COMENTÁRIOS ----------------------------- -->
+  <section class="sec-coment">
+
+<h4 class="text-sm-center">Comentários  <i class="far fa-comment-dots"></i></h4>
+    <div class="box-coment">
+      <div class="coment-picture">
+        <img src="./img/pexels-martin-péchy-2078265.jpg" alt="martin">
+      </div>
+
+      <blockquote class="blockquote">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate reprehenderit facilis, excepturi magni a
+          odio impedit adipisci. Quam sit, accusamus error tempora, mollitia nisi unde inventore voluptates, excepturi
+          repellendus obcaecati.</p>
+          <cite  class="blockquote-footer text-right">Martin, 20</cite>
+      </blockquote>
+      </p>
+    </div>
+    <div class="box-coment">
+      <div class="coment-picture">
+        <img src="./img/pexels-pixabay-415829.png" alt="Vanessa">
+      </div>
+
+      <blockquote class="blockquote">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate reprehenderit facilis, excepturi magni a
+          odio impedit adipisci. Quam sit, accusamus error tempora, mollitia nisi unde inventore voluptates, excepturi
+          repellendus obcaecati.</p>
+          <cite  class="blockquote-footer text-right">Vanessa, 22</cite>
+      </blockquote>
+      </p>
+    </div>
+    <div class="box-coment">
+      <div class="coment-picture">
+        <img src="./img/pexels-rfstudio-3060528.png" alt="martin">
+      </div>
+
+      <blockquote class="blockquote">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate reprehenderit facilis, excepturi magni a
+          odio impedit adipisci. Quam sit, accusamus error tempora, mollitia nisi unde inventore voluptates, excepturi
+          repellendus obcaecati.</p>
+          <cite  class="blockquote-footer text-right">Alexa, 26</cite>
+      </blockquote>
+      </p>
+    </div>
+
+
+
+
+
+
+
+
+
+
+  </section>
